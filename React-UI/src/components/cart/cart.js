@@ -44,11 +44,11 @@ class Cart extends Component {
                         </div>
                         <div class="col-md-2 col-sm-3 col-xs-3 col-3" style={{ "padding": '2%'}}>
                             <h5 class="text-style-2">Tenure</h5>
-                            <p class="text-style-3">Rs 799</p><small style={{ "color": '#3dbdb6'}}>Fully refundable</small>
+                            <p class="text-style-3">$ 799</p><small style={{ "color": '#3dbdb6'}}>Fully refundable</small>
                         </div>
                         <div class="col-md-2 col-sm-3 col-xs-3 col-3" style={{ "padding": '2%'}}>
                             <h5 class="text-style-2">Total</h5>
-                            <p class="text-style-4">Rs 1499</p>
+                            <p class="text-style-4">$ 1499</p>
                         </div>
                     </div>
                         ))
