@@ -76,7 +76,7 @@ class Checkout extends Component {
                 <h4 class="text-style-2">Monthly Rent</h4>
               </div>
               <div class="col">
-                <h4 class="text-style-3 text-end">Rs 3050</h4>
+                <h4 class="text-style-3 text-end">$ 3050</h4>
               </div>
             </div>
             <div class="row payment">
@@ -84,7 +84,7 @@ class Checkout extends Component {
                 <h4 class="text-style-2">Security Deposit</h4>
               </div>
               <div class="col">
-                <h4 class="text-style-3 text-end">Rs 6799</h4>
+                <h4 class="text-style-3 text-end">$ 6799</h4>
               </div>
             </div>
             <div class="row payment">
@@ -92,7 +92,7 @@ class Checkout extends Component {
                 <h4 class="text-style-2">GST</h4>
               </div>
               <div class="col">
-                <h4 class="text-style-3 text-end">Rs 300</h4>
+                <h4 class="text-style-3 text-end">$ 300</h4>
               </div>
             </div>
             <div class="row payment">
@@ -101,7 +101,7 @@ class Checkout extends Component {
               </div>
               <div class="col">
                 <h4 class="text-style-3 text-end" style={{ color: "#ef4423" }}>
-                  - Rs 2,789
+                  - $ 2,789
                 </h4>
               </div>
             </div>
@@ -124,7 +124,7 @@ class Checkout extends Component {
                 <h4 class="text-style-1">Delivery</h4>
               </div>
               <div class="col">
-                <h4 class="text-style-1 text-end">Rs 30,000</h4>
+                <h4 class="text-style-1 text-end">$ 30,000</h4>
               </div>
             </div>
             <br />
