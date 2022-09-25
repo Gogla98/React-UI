@@ -36,7 +36,7 @@ class Checkout extends Component {
                     rent
                   </h3>
                   <p>Your promo code</p>
-                  <h1>ANDNYD2S</h1>
+                  <h1>GOGLA98</h1>
                   <hr />
                   <p>Share on</p>
                   <div class="social-icons">
